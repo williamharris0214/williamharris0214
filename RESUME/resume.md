@@ -3,7 +3,10 @@
 ## About
 
 **Technical professional** with a passion for learning and 10 years of experience of software development and technical writing to solve real-world problems.
-For many years, working as a freelancer helped technical problems in IT Companies, built tens of websites and mobile applications. I believe **Creative thinking**, and high attention to detail are key and love to challenge new technologies. Passionate on **Blockchain**, **AI** specifically **Deep-Learning**. I love reading books, swimming and sometimes go climbing.
+
+For many years, working as a freelancer helped technical problems in IT Companies, built tens of websites and mobile applications. I believe **Creative thinking**, and high attention to detail are key and love to challenge new technologies.
+
+Passionate on **Blockchain**, **AI** specifically **Deep-Learning**. I love reading books, swimming and sometimes go climbing.
 
 ## Link
 
