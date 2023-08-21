@@ -28,10 +28,10 @@ We specialize in Mobile Apps, Webs, Games, Digital Marketing, Social Media Marke
 |   Web   | [Zero](https://play.google.com/store/apps/details?id=com.zerofasting.zero&hl=en&gl=US) |
 | GitHub  | [Zero](https://play.google.com/store/apps/details?id=com.zerofasting.zero&hl=en&gl=US) |
 
-|                       Images                       |
-| :------------------------------------------------: |
-|  ![](project/image/kiosk.png)  |
-| ![](project/image/work001.jpg) |
-| ![](project/image/work002.jpg) |
-| ![](project/image/work003.jpg) |
-| ![](project/image/work004.jpg) |
+|         Images         |
+| :--------------------: |
+|  ![](image/kiosk.png)  |
+| ![](image/work001.jpg) |
+| ![](image/work002.jpg) |
+| ![](image/work003.jpg) |
+| ![](image/work004.jpg) |
