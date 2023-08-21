@@ -14,6 +14,7 @@ Coding **HTML, CSS, and JavaScript** since his armed forces days in 1997, Jay en
 [WhatsApp](https://wa.me/16464800703)
 [Phone](tel:+16464800703)
 [Skype](skype:live:.cid.456097f8358a684a)
+[Telegram](https://t.me/silvani777)
 
 ## Skill
 
