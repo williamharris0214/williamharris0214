@@ -30,8 +30,8 @@ We specialize in Mobile Apps, Webs, Games, Digital Marketing, Social Media Marke
 
 |                       Images                       |
 | :------------------------------------------------: |
-|  ![](http://localhost:4200/assets/work/kiosk.png)  |
-| ![](http://localhost:4200/assets/work/work001.jpg) |
-| ![](http://localhost:4200/assets/work/work002.jpg) |
-| ![](http://localhost:4200/assets/work/work003.jpg) |
-| ![](http://localhost:4200/assets/work/work004.jpg) |
+|  ![](project/image/kiosk.png)  |
+| ![](project/image/work001.jpg) |
+| ![](project/image/work002.jpg) |
+| ![](project/image/work003.jpg) |
+| ![](project/image/work004.jpg) |
