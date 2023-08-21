@@ -1,0 +1,6 @@
+- [KIOSK](project/a.md)
+- [KIOSK](project/b.md)
+- [KIOSK](project/kiosk.md)
+- [KIOSK](project/kiosk.md)
+- [KIOSK](project/kiosk.md)
+- [KIOSK](project/kiosk.md)
