@@ -2,9 +2,8 @@
 
 ## About
 
-I'm a **FULL-STACK** developer, **freelancer** living in New York
-
-Coding **HTML, CSS, and JavaScript** since his armed forces days in 1997, Jay enjoys bringing value to clients via eCommerce solutions, legacy integrations, and optimized PHP and JavaScript-driven applications. His preferred DevOps environment is AWS, where he has strong skills in (and not limited to): **Relational Database Services (RDS)**, Redshift, Dynamo DB, Data Migration Services (DMS), **Lambda** (serverless and microservices), Cloudwatch, Cloudtrail, and Event Bridge.
+**Technical professional** with a passion for learning and 10 years of experience of software development and technical writing to solve real-world problems.
+For many years, working as a freelancer helped technical problems in IT Companies, built tens of websites and mobile applications. I believe **Creative thinking**, and high attention to detail are key and love to challenge new technologies. Passionate on **Blockchain**, **AI** specifically **Deep-Learning**. I love reading books, swimming and sometimes go climbing.
 
 ## Link
 
