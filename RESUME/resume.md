@@ -18,6 +18,7 @@ Passionate on **Blockchain**, **AI** specifically **Deep-Learning**. I love read
 [Skype](skype:live:.cid.456097f8358a684a)
 [Telegram](https://t.me/silvani777)
 [LinkedIn](https://www.linkedin.com/in/santiagourregobotero/)
+[Discord](https://discord.gg/jRrTSsND)
 
 ## Skill
 
