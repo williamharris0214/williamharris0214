@@ -39,11 +39,11 @@ Passionate on **Blockchain**, **AI** specifically **Deep-Learning**. I love read
 
 ## Education
 
-B.A. from Heilongjiang University (China)
+National University of Singapore
 
-Department of Chinese language and
+Bachelor's Degree of Computer Science
 
-Linguist of Chinese language
+2009 ~ 2014
 
 During study repeatedly was awarded by letter of **commendations** for confirmation of high level of **Chinese** language among foreign students:
 
