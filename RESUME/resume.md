@@ -68,15 +68,15 @@ Bachelor's Degree of Computer Science
 
 `01.2020 ~ Present`
 
-Be involved in developing drug agency website and learned and assisted designing pharma logic of it (https://drugaware.com.au/)
+- Be involved in developing drug agency website and learned and assisted designing pharma logic of it
 
-Built dentist’s personal website and it has a reservation service, commerce service with react 18+, MUI theme
+- Built dentist’s personal website and it has a reservation service, commerce service with react 18+, MUI theme
 
-Build highly re-useable React components and use storybook to create the documentation of components
+- Build highly re-useable React components and use storybook to create the documentation of components
 
-Offer technical advices and solutions for other team members regarding to the React, Angular, Next
+- Offer technical advices and solutions for other team members regarding to the React, Angular, Next
 
-Help maintaining some part of backend code with Django and Ruby on Rails
+- Help maintaining some part of backend code with Django and Ruby on Rails
 
 ### Senior Web Developer
 
