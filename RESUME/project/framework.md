@@ -3,10 +3,9 @@
 `06.2023 ~ 08.2023`
 
 Find, join, and host your group on Uplift.
-
-1. Meet others who are in your shoes
-2. Share, commiserate, encourage, and improve — together
-3. Make friends for life
+Meet others who are in your shoes
+Share, commiserate, encourage, and improve — together
+Make friends for life
 
 #### Category
 
