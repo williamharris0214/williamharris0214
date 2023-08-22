@@ -15,9 +15,9 @@ Make friends for life
 | :--------------------------: | :-----------: |
 | Flutter, Auto-Route, OpenAPI | United States |
 
-|   App   |                                   Link                                   |
-| :-----: | :----------------------------------------------------------------------: |
-| Android | [Link](https://play.google.com/store/apps/details?id=com.uplift.android) |
+|   App   |                                      Link                                      |
+| :-----: | :----------------------------------------------------------------------------: |
+| Android | [Link](https://play.google.com/store/apps/details?id=co.pulpo.wms&hl=en&gl=US) |
 
 |           Images            |
 | :-------------------------: |

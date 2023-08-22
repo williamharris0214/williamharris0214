@@ -15,12 +15,12 @@ Make friends for life
 | :--------------------------: | :-----------: |
 | Flutter, Auto-Route, OpenAPI | United States |
 
-|   App   |                                   Link                                   |
-| :-----: | :----------------------------------------------------------------------: |
-| Android | [Link](https://play.google.com/store/apps/details?id=com.uplift.android) |
+|   App   |                                                                                 Link                                                                                  |
+| :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Android | [Link](https://play.google.com/store/apps/details?id=com.ninjanumber.nnapp&hl=en&gl=US#:~:text=Ninja%20Number%20is%20a%20smart,that%20fits%20your%20business%20line.) |
 
-|           Images            |
-| :-------------------------: |
-| ![](image/pulpo_wms/01.png) |
-| ![](image/pulpo_wms/02.png) |
-| ![](image/pulpo_wms/03.png) |
+|                Images                |
+| :----------------------------------: |
+| ![](image/smart_second_phone/01.png) |
+| ![](image/smart_second_phone/01.png) |
+| ![](image/smart_second_phone/01.png) |
