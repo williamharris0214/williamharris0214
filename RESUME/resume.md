@@ -21,84 +21,87 @@ Passionate on **Blockchain**, **AI** specifically **Deep-Learning**. I love read
 
 ## Skill
 
-- Migration
-- Full-Stack
-- System Administration
-- Gmail
-- CSS
+- JavaScript
+- TypeScript
+- Dart
+- Python
 - PHP
-- SQL
-- jQuery
-- React
+- Java
+- Swift
+- HTML
+- CSS
+- C#
+- Dart
+- Rust
+- Solidity
+- Ruby on Rails
 - Angular
-- AWS CLI
-- Vue
-- MERN
+- React Native
+- Next.js
+- Flutter
+- Spring Boot
+- ASP.NET
+- Laravel
+- Express
+- Django
+- TensorFlow
+- MUI
 - Node.js
-- DevOps
+- Socket.IO
+- Web3.js
+- Vue.js
+- Selenium
 
 ## Education
 
-National University of Singapore
+**National University of Singapore**
 
 Bachelor's Degree of Computer Science
 
 2009 ~ 2014
 
-During study repeatedly was awarded by letter of **commendations** for confirmation of high level of **Chinese** language among foreign students:
-
-1. 2006 — first place
-2. 2008 — second place
-3. 2007 — third place
-
-In 2007-2008 years was granted by scholarship for overachieving study. Defended a diploma Open Source and its influence on life, work, and its contribution in Internet development.
-
 ## Experience
 
-### Associate Director of Engineering
+### Full Stack Web & Mobile Developer
 
-#### Oscar Health
+#### Freelancer
 
-`01-2019 ~ 12.2020`
+`01.2020 ~ Present`
 
-Led a team of engineers responsible for enrolling members in Oscar's fastestgrowing market.
+Be involved in developing drug agency website and learned and assisted designing pharma logic of it (https://drugaware.com.au/)
 
-Built applications that enabled users to enroll in Oscar care in the individual market.
+Built dentist’s personal website and it has a reservation service, commerce service with react 18+, MUI theme
 
-Created an experience that allowed individuals to digitally renew their plan or switch to a new plan for the next year.
+Build highly re-useable React components and use storybook to create the documentation of components
 
-Built a robust integration with the federal healthcare marketplace and provided users access to subsidized care through Oscar via the Federally Facilitated Marketplace.
+Offer technical advices and solutions for other team members regarding to the React, Angular, Next
 
-### Associate Director of Engineering
+Help maintaining some part of backend code with Django and Ruby on Rails
 
-#### Oscar Health
+### Senior Web Developer
 
-`01-2019 ~ 12.2022`
+#### Wipro Limited
 
-Led a team of engineers responsible for enrolling members in Oscar's fastestgrowing market.
+`09-2017 ~ 12.2019`
 
-Built applications that enabled users to enroll in Oscar care in the individual market.
+Designed and developed the infrastructure and well-formed project of ICO and NFT marketplace DApp from scratch.
 
-Created an experience that allowed individuals to digitally renew their plan or switch to a new plan for the next year.
+Built an exchange platform (hybrid - Centralized and Decentralized) for deposit and withdraw several kinds of coins and convert/exchange these tokens and ERC20 tokens as the bidding price or market price
 
-Built a robust integration with the federal healthcare marketplace and provided users access to subsidized care through Oscar via the Federally Facilitated Marketplace.
+Developed smart contracts for ERC-20 tokens exchange and management
 
-### Associate Director of Engineering
+Built the frontend using React.js / Typescript + Web3.js integrating phantom wallet connection
 
-#### Oscar Health
+### Web & Mobile Developer
 
-`01-2019 ~ 12.2022`
+#### Blockchain Nordic
 
-Led a team of engineers responsible for enrolling members in Oscar's fastestgrowing market.
+`08-2015 ~ 05.2017`
 
-Built applications that enabled users to enroll in Oscar care in the individual market.
+Designed and developed the infrastructure and well-formed project of ICO and NFT marketplace DApp from scratch.
 
-Created an experience that allowed individuals to digitally renew their plan or switch to a new plan for the next year.
+Using Java, Swift to create an iOS, Android apps
 
-Built a robust integration with the federal healthcare marketplace and provided users access to subsidized care through Oscar via the Federally Facilitated Marketplace.
+Developed smart contracts for ERC-20 tokens exchange and management
 
-## Link
-
-williamharris0214@gmail.com
-https://github.com/williamharris0214
-http://localhost:4200/
+Improve user experience through technical way such like reducing code base, reducing http requests, and compatibility with each platform
