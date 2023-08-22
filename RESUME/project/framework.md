@@ -2,10 +2,16 @@
 
 `06.2023 ~ 08.2023`
 
-Find, join, and host your group on Uplift.
-Meet others who are in your shoes
-Share, commiserate, encourage, and improve — together
-Make friends for life
+PULPO WMS APP for your warehouse staff. Optimize all processes inside your warehouse:
+
+- Incoming goods
+- Picking
+- Packing
+- Replenishment
+- Returns
+- Inventory
+
+To be used with our cloud PULPO Warehouse Management System from https://www.pulpowms.com
 
 #### Category
 
